@@ -1,0 +1,27 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        # Install dependencies using the lockfile for consistency
+        - npm ci
+    build:
+      commands:
+        # Build the production-ready React app
+        - npm run build
+  artifacts:
+    # Vite outputs the build to the 'dist' folder by default
+    baseDirectory: dist
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - node_modules/**/*
+
+# Professional Redirects for Single Page Applications (SPA)
+# This prevents 404 errors when refreshing the page on custom routes
+customHeaders:
+  - pattern: '**/*'
+    headers:
+      - key: 'Strict-Transport-Security'
+        value: 'max-age=31536000; includeSubDomains'
