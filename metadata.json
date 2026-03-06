@@ -1,0 +1,8 @@
+{
+  "name": "4-2 PROJECT RETINO AI - Diagnostic Hub",
+  "description": "A high-end, clinical-futuristic platform for Diabetic Retinopathy (DR) grading using Vision Transformers and Gemini AI for medical reporting and multilingual accessibility.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

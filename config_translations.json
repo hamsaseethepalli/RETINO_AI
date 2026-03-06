@@ -1,0 +1,54 @@
+
+{
+  "en": {
+    "title": "RETINO AI - Diagnostic Hub",
+    "upload": "Upload Fundus Image",
+    "dashboard": "My Dashboard",
+    "preliminaryReport": "Preliminary AI Report",
+    "verifiedReport": "Clinical Diagnosis Report",
+    "rolePatient": "Patient Access",
+    "roleDoctor": "Clinician Access",
+    "severityLabels": ["No Diabetic Retinopathy", "Mild Non-Proliferative DR", "Moderate Non-Proliferative DR", "Severe Non-Proliferative DR", "Proliferative DR"],
+    "precautions": "Precautions & Lifestyle",
+    "recommendations": "Recommendations",
+    "explainBtn": "AI Medical Explainer",
+    "readAloud": "Read Report Aloud",
+    "approve": "Approve & Sign",
+    "correction": "Manual Correction",
+    "disclaimer": "Disclaimer: This is an AI-generated preliminary screening. A final diagnosis requires clinical verification by an ophthalmologist."
+  },
+  "hi": {
+    "title": "रेटिनो एआई - नैदानिक केंद्र",
+    "upload": "फंडस इमेज अपलोड करें",
+    "dashboard": "मेरा डैशबोर्ड",
+    "preliminaryReport": "प्रारंभिक एआई रिपोर्ट",
+    "verifiedReport": "नैदानिक निदान रिपोर्ट",
+    "rolePatient": "मरीज़ पहुँच",
+    "roleDoctor": "चिकित्सक पहुँच",
+    "severityLabels": ["कोई मधुमेह संबंधी रेटिनोपैथी नहीं", "हल्की गैर-प्रसारशील डीआर", "मध्यम गैर-प्रसारशील डीआर", "गंभीर गैर-प्रसारशील डीआर", "प्रसारशील डीआर"],
+    "precautions": "सावधानियां और जीवनशैली",
+    "recommendations": "सिफ़ारिशें",
+    "explainBtn": "एआई मेडिकल स्पष्टीकरण",
+    "readAloud": "रिपोर्ट को जोर से पढ़ें",
+    "approve": "स्वीकृत करें और हस्ताक्षर करें",
+    "correction": "मैनुअल सुधार",
+    "disclaimer": "अस्वीकरण: यह एक एआई-जनित प्रारंभिक स्क्रीनिंग है। नेत्र रोग विशेषज्ञ द्वारा सत्यापन आवश्यक है।"
+  },
+  "te": {
+    "title": "రెటినో AI - డయాగ్నోస్టిక్ హబ్",
+    "upload": "ఫండస్ ఇమేజ్‌ని అప్‌లోడ్ చేయండి",
+    "dashboard": "నా డాష్‌బోర్డ్",
+    "preliminaryReport": "ప్రాథమిక AI నివేదిక",
+    "verifiedReport": "క్లినికల్ డయాగ్నోసిస్ నివేదిక",
+    "rolePatient": "రోగి ప్రవేశం",
+    "roleDoctor": "క్లినిషియన్ యాక్సెస్",
+    "severityLabels": ["డయాబెటిక్ రెటినోపతి లేదు", "తేలికపాటి నాన్-ప్రోలిఫెరేటివ్ DR", "మితమైన నాన్-ప్రోలిఫెరేటివ్ DR", "తీవ్రమైన నాన్-ప్రోలిఫెరేటివ్ DR", "ప్రోలిఫెరేటివ్ DR"],
+    "precautions": "జాగ్రత్తలు & జీవనశైలి",
+    "recommendations": "సిఫార్సులు",
+    "explainBtn": "AI వైద్య వివరణ",
+    "readAloud": "నివేదికను గట్టిగా చదవండి",
+    "approve": "ఆమోదించి సంతకం చేయండి",
+    "correction": "మాన్యువల్ దిద్దుబాటు",
+    "disclaimer": "నిరాకరణ: ఇది AI ద్వారా రూపొందించబడిన ప్రాథమిక స్క్రీనింగ్. నేత్ర వైద్య నిపుణుల ధృవీకరణ అవసరం."
+  }
+}
